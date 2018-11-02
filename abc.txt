@@ -4,4 +4,4 @@ for master
 how are you all
 modifying data from remote
 
-it's working..
+it's working
